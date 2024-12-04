@@ -1,0 +1,6 @@
+name,email,phone,address,credit_card,ssn,age,salary,account_number,notes,department,hire_date,city,state,country
+Alice,alice@example.com,1234567890,123 Main St,1234-5678-9012-3456,123-45-6789,30,70000,001234567890,Important customer,Engineering,2015-06-01,New York,NY,USA
+Bob,bob@example.com,0987654321,456 Oak St,2345-6789-0123-4567,987-65-4321,40,80000,009876543210,Requires follow-up,Sales,2018-09-15,Los Angeles,CA,USA
+Charlie,charlie@workmail.com,1122334455,789 Pine St,3456-7890-1234-5678,321-54-9876,25,50000,001122334455,New account,Marketing,2020-01-20,Chicago,IL,USA
+David,david@company.com,+1 234 567 8901,101 Birch St,4567-8901-2345-6789,654-32-1987,35,60000,003456789012,VIP customer,Finance,2017-03-12,Houston,TX,USA
+Eve,eve@domain.com,+44 20 7946 0958,202 Elm St,5678-9012-3456-7890,789-65-4321,29,55000,007865432109,Preferred contact,Support,2019-11-05,San Francisco,CA,USA
